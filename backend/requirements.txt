@@ -1,0 +1,8 @@
+pymongo==4.3.2
+python-dotenv==0.21.0
+pydantic==1.10.2
+StrEnum==0.4.8
+fastapi==0.104.1
+uvicorn[standard]==0.19.0
+py-bcrypt==0.4
+pymongo_inmemory==0.4.0
